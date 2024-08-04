@@ -1,5 +1,7 @@
 # Sheet Counter Application
 
+Video - Uploading SheetCount.mp4…
+
 ## Overview
 
 The Sheet Counter application is designed to count the number of sheets in a stack from an uploaded image. This is achieved through advanced computer vision techniques that detect and count horizontal lines corresponding to the edges of the sheets.
